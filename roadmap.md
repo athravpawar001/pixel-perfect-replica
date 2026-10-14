@@ -1,0 +1,4 @@
+- [ ] Apply the student-management database schema with administrator-only access.
+- [ ] Build EduNexa authentication, workspace layout, and student/course/marks/results workflows.
+- [ ] Add reports, CSV exports, account settings, and setup/deployment documentation.
+- [ ] Verify calculations, routing, UI behavior, and the production build; document unverified deployment steps.
